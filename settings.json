@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "qatilsmpmc.aternos.me:24876",
+    "ip": "qatilsmpmc.aternos.me",
     "port": 24876,
     "version": "",
     "try-creative": false
